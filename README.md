@@ -99,6 +99,15 @@ For building and running the application you need:
 - Buildr
 
 
+
 ## Copyright @soumyadip007
+```shell
+/**
+ * 
+ * @author Soumyadip Chowdhury
+ * @github soumyadip007
+ *
+ */
+
 
 Released under the Apache License 2.0. See the [LICENSE](https://github.com/soumyadip007/DBJ.jar/blob/master/LICENSE) file.
